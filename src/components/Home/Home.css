@@ -1,0 +1,61 @@
+.banner-fix{
+    background-color: #D5C455;
+    height: 500px;
+}
+.banner-img{
+    width: 50%;
+    margin-top: 50px;
+}
+.left-details{
+    
+}
+.left-details h1{
+    font-weight: 700;
+    color: #222222;
+    font-size: 80px;
+    line-height: 1.2;
+}
+.left-details h5{
+    font-weight: 700;
+    color: #d5c455;
+    font-size: 16px;
+    letter-spacing: 1px;
+}
+.left-details p{
+    letter-spacing: 1px;
+}
+.card-body-home{
+    padding-top: 10px;
+    margin-top: 15px;
+}
+.main-card-body{
+    overflow: hidden;
+    width: 30%;
+    margin: 5px;
+    margin-left: 2%;
+    padding: 2%;
+    box-shadow: 1px 5px 20px 0px grey;
+    border-radius: 10px;
+    margin-bottom: 20px;
+    transition-duration: 0.3s;
+}
+.main-card-body:hover{
+    box-shadow: 5px 5px 5px 5px grey;
+}
+.btn-custom{
+    box-shadow: 0px 24px 36px -11px rgb(0 0 0 / 12%);
+    border-radius: 0;
+    padding: 9px 20px;
+    font-size: 12px;
+    font-weight: 700;
+    letter-spacing: 1px;
+}
+.btn-custom:hover{
+    box-shadow: 3px 4px 36px 0px rgb(0 0 0 / 30%);
+    background-color: #fff !important;
+    color: #333 !important;
+}
+.btn-yellow{
+    background: #d5c455 !important;
+    color: #fff !important;
+}
