@@ -4,12 +4,16 @@ const Contact = () => {
     return (
         <div>
             <form
-                name="contact v1"
+                name="contact v2"
                 method="post"
                 data-netlify="true"
                 onSubmit="submit"
+                data-netlify-honeypot="bot-field"
             >
-                <input type="hidden" name="form-name" value="contact v1" />
+                <input type="hidden" name="form-name" value="contact v2" />
+                <div hidden>
+                    <input name="bot-field" />
+                </div>
                 <div>
                     <label>First Name<br />
                         <input type="text" name="first-name" />
