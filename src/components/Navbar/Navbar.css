@@ -1,0 +1,13 @@
+.navbar ul li{
+    text-transform: uppercase;
+    border-radius: 0;
+    font-size: 14px;
+    font-weight: 700;
+    letter-spacing: 1px;
+    padding: 6px 20px;
+    transition-duration: 0.3s;
+}
+.navbar ul li:hover{
+    background: #d5c455 !important;
+    color: #fff !important;
+}

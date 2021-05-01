@@ -1,0 +1,16 @@
+.about-detail strong{
+    color: #d5c455;
+}
+.about-detail h1{
+    color: #d5c455;
+    padding-bottom: 15px;
+}
+.skill-section .custom-back-color{
+    color: #fff;
+    margin-top: 20px;
+    margin: auto;
+    height: 345px;
+}
+.skill-section .custom-back-color h6{
+    line-height: 2rem;
+}

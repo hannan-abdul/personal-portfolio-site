@@ -8,6 +8,12 @@
   height: 40vmin;
   pointer-events: none;
 }
+.custom-text-color{
+  color: #d5c455;
+}
+.custom-back-color{
+  background-color: #d5c455;
+}
 
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
