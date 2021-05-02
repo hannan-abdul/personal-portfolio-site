@@ -6,14 +6,26 @@
     width: 70%;
     margin-top: 50px;
 }
-.left-details{
-    
-}
+@media (max-width: 767px) {
+    .banner-img{
+      width: 60%;
+    }
+  }
+  @media (max-width: 575px) {
+    .banner-img{
+      width: 80%;
+    }
+  }
 .left-details h1{
     font-weight: 700;
     color: #222222;
     font-size: 80px;
     line-height: 1.2;
+}
+@media (max-width: 991px) {
+    .left-details h1{
+        font-size: 55px;
+    }
 }
 .left-details h5{
     font-weight: 700;
