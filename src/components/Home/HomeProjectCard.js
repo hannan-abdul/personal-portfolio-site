@@ -3,7 +3,7 @@ import './Home.css'
 
 const HomeProjectCard = ({ detail }) => {
     return (
-        <div className="col-md-4 my-5 main-card-body" >
+        <div className="col-md-6 col-sm-12 my-5 main-card-body" >
             <img className="work-img" style={{ width: '100%', height: '30%' }} src={detail.img} alt="" />
             <div className="card-body-home">
                 <div className='card-inner-detail'>

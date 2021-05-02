@@ -38,6 +38,19 @@
     margin-bottom: 20px;
     transition-duration: 0.3s;
 }
+@media (max-width: 991px) {
+    .main-card-body{
+        width: 45%;
+        margin: 5px;
+    }
+}
+@media (max-width: 767px){
+    
+	.main-card-body{
+        width: 100%;
+    }
+	
+}
 .main-card-body:hover{
     box-shadow: 5px 5px 5px 5px grey;
 }
