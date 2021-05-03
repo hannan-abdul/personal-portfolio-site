@@ -5,29 +5,29 @@ import './Navbar.css'
 const Navbar = () => {
     return (
         <div>
-            <nav className="navbar navbar-expand-lg navbar-light">
-                <div className="container-fluid">
+            <nav class="navbar navbar-expand-lg navbar-light bg-light">
+                <div class="container-fluid">
                     <h3>ABDUL HANNAN</h3>
-                    <button className="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
-                        <span className="navbar-toggler-icon"></span>
+                    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+                        <span class="navbar-toggler-icon"></span>
                     </button>
 
-                    <div className="collapse navbar-collapse" id="navbarSupportedContent">
-                        <ul className="navbar-nav ms-auto">
-                            <li className="nav-item">
-                                <Link className="nav-link" to="/">Home</Link>
+                    <div class="collapse navbar-collapse" id="navbarNav">
+                        <ul class="navbar-nav ms-auto">
+                            <li class="nav-item">
+                                <Link class="nav-link" to="/">Home</Link>
                             </li>
-                            <li className="nav-item">
-                                <Link className="nav-link" to="/about">About</Link>
+                            <li class="nav-item">
+                                <Link class="nav-link" to="/about">About</Link>
                             </li>
-                            <li className="nav-item">
-                                <Link className="nav-link" to="/projects">Projects</Link>
+                            <li class="nav-item">
+                                <Link class="nav-link" to="/projects">Projects</Link>
                             </li>
-                            <li className="nav-item">
+                            <li class="nav-item">
                                 <Link className="nav-link" to="/blog">Blog</Link>
                             </li>
-                            <li className="nav-item">
-                                <Link className="nav-link" to="/contact">Contact</Link>
+                            <li class="nav-item">
+                                <Link class="nav-link" to="/contact">Contact</Link>
                             </li>
                         </ul>
                     </div>
