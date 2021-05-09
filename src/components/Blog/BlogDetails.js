@@ -1,5 +1,4 @@
 import React from 'react';
-import { Link } from 'react-router-dom';
 import '../Home/Home.css'
 
 const BlogDetails = ({detail}) => {
@@ -11,7 +10,7 @@ const BlogDetails = ({detail}) => {
                     <h2>{detail.title}</h2>
                     <p><strong>ABOUT:</strong> {detail.description}</p>
                 </div>
-                <Link className="mb-5 btn btn-custom btn-yellow" to="/">READ MORE</Link>
+                <a className="btn btn-custom btn-yellow" href={detail.link} target="_blank">Read More</a>
             </div>
         </div>
     );

@@ -15,8 +15,8 @@ const ProjectsDetail = (props) => {
                         <p><strong>ABOUT:</strong> {description}</p>
                         <p><strong>TECH USED:</strong> {tech}</p>
                     </div>
-                    <a className="btn btn-custom btn-yellow" href={github}>GITHUB LINK</a>
-                    <a className="btn btn-custom" href={live}>LIVE LINK</a>
+                    <a className="btn btn-custom btn-yellow" href={github} target="_blank">GITHUB LINK</a>
+                    <a className="btn btn-custom" href={live} target="_blank">LIVE LINK</a>
                 </div>
             </div>
         </div>

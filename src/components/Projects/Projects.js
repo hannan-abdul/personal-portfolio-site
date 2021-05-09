@@ -41,7 +41,7 @@ const details = [
     },
     {
         img: project5,
-        title: 'Player Selection',
+        title: 'Spanish Soccer Leagues',
         description: 'This website is about spanish football leagues also known as spanish soccer leagues. here you will get all spanish football teams details information and so on.',
         tech: 'React.JS, Netlify, Bootstrap5, React Router, JavaScript',
         github: 'https://github.com/hannan-abdul/spanish-soccer-league',
