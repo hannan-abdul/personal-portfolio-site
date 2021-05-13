@@ -3,8 +3,7 @@
     height: 500px;
 }
 .banner-img{
-    width: 70%;
-    margin-top: 50px;
+    width: 68%;
 }
 @media (max-width: 767px) {
     .banner-img{

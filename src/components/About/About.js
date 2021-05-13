@@ -18,11 +18,11 @@ const About = () => {
                         <div className="col-md-6">
                             <p><strong>Name: </strong>Abdul Hannan</p>
                             <p><strong>Email: </strong>abdul.webapps@gmail.com</p>
-                            <a className="btn btn-custom btn-yellow" href="https://drive.google.com/uc?id=1NR6_Kbryxnv2UoN5YYCconV7873aTlnX&export=download">DOWNLOAD CV</a>
                         </div>
                         <div className="col-md-6">
                             <p><strong>Phone: </strong>+8801977099229</p>
                             <p><strong>Address: </strong>Chittagong, Bangladesh</p>
+                            <a className="btn btn-custom btn-yellow" href="https://drive.google.com/uc?id=1NR6_Kbryxnv2UoN5YYCconV7873aTlnX&export=download">DOWNLOAD CV</a>
                         </div>
                     </div>
                 </div>

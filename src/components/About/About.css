@@ -14,3 +14,9 @@
 .skill-section .custom-back-color h6{
     line-height: 2rem;
 }
+.skill-section strong{
+    color: #333;
+}
+.skill-section h3{
+    color: #333;
+}

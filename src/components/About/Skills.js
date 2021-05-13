@@ -8,7 +8,7 @@ const Skills = () => {
             <div className="row">
                 <div className="col-md-5 p-5 custom-back-color">
                     <h3>Tech Skills</h3>
-                    <h6><strong>Expertise: </strong> JavaScript, ES6, React-JS, React Router, Bootstrap, Material UI, SCSS</h6>
+                    <h6><strong>Expertise: </strong> JavaScript, ES6, React-JS, React Router, Bootstrap, Material UI, SCSS, API</h6>
                     <h6><strong>Familiar: </strong> Firebase, TypeScript, MongoDB, Node-JS, React-Native, Netlify, GitHub</h6>
                     <h6><strong>Tools: </strong>  VSCode, Chrome Dev Tool, Windows 10, MacOS</h6>
                 </div>
