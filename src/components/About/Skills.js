@@ -9,7 +9,7 @@ const Skills = () => {
                 <div className="col-md-5 p-5 custom-back-color">
                     <h3>Tech Skills</h3>
                     <h6><strong>Expertise: </strong> JavaScript, ES6, React-JS, React Router, Bootstrap, Material UI, SASS, API, Wordpress</h6>
-                    <h6><strong>Familiar: </strong> TypeScript, MongoDB, Express, Redux, NodeJS, Firebase React-Native, Netlify, GitHub</h6>
+                    <h6><strong>Familiar: </strong> TypeScript, MongoDB, Express, Redux, NodeJS, Firebase React-Native, UI/UX Design, Netlify, GitHub</h6>
                     <h6><strong>Tools: </strong>  VSCode, Chrome Dev Tool, Windows 10, MacOS</h6>
                 </div>
                 <div className="col-md-5 p-5 custom-back-color">

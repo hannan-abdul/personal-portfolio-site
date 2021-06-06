@@ -22,7 +22,7 @@ const About = () => {
                         <div className="col-md-6">
                             <p><strong>Phone: </strong>+8801977099229</p>
                             <p><strong>Address: </strong>Chittagong, Bangladesh</p>
-                            <a className="btn btn-custom btn-yellow" href="https://drive.google.com/uc?id=1NR6_Kbryxnv2UoN5YYCconV7873aTlnX&export=download">DOWNLOAD CV</a>
+                            <a className="btn btn-custom btn-yellow" href="https://drive.google.com/uc?id=15Lvnzt_x98_bC7HDqr1hsOmbciv4Udbq&export=download">DOWNLOAD CV</a>
                         </div>
                     </div>
                 </div>
