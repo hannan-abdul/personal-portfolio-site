@@ -11,7 +11,7 @@ const details = [
         img: project1,
         title: 'Ride Sharing',
         description: 'This website is for traveler who want to travel around the city by using different types of vehicles like bike, bus, car and train.',
-        tech: 'React.JS, Node.js, Firebase, Bootstrap5, React Router',
+        tech: 'React.JS, Node.js, Firebase, Bootstrap5, React Router, Google Maps API',
         github: 'https://github.com/hannan-abdul/reach-destination',
         live: 'https://reach-destination.web.app/'
     },
