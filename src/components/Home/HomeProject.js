@@ -41,7 +41,9 @@ const HomeProject = () => {
                 {
                     details.map(detail => <HomeProjectCard detail={detail}></HomeProjectCard>)
                 }
-                <Link className="mb-5 btn btn-custom btn-yellow" to="/projects">MORE PROJECTS</Link>
+                <div>
+                    <Link className="mb-5 btn btn-custom btn-yellow" to="/projects">MORE PROJECTS</Link>
+                </div>
             </div>
         </div>
     );
