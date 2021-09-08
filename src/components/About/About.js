@@ -1,5 +1,5 @@
 import React from 'react';
-import myimage from '../../images/pic-1.png';
+import myimage from '../../images/pic-1.jpg';
 import './About.css'
 import Skills from './Skills';
 
@@ -8,7 +8,7 @@ const About = () => {
         <div className='container py-5'>
             <div className="row">
                 <div className="col-md-6">
-                    <img src={myimage} alt="" />
+                    <img className='about-img' src={myimage} alt="" />
                 </div>
                 <div className="col-md-6 text-start about-detail">
                     <h1>Let's Introduce About Myself</h1>

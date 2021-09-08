@@ -1,6 +1,6 @@
 import React from 'react';
 import './Home.css';
-import profile from '../../images/profile-picture.png';
+import profile from '../../images/profile-picture.jpg';
 import HomeProject from './HomeProject';
 import { Link } from 'react-router-dom';
 
